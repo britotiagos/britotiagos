@@ -16,7 +16,6 @@ If you want to have a chat, follow me on one of the platforms below.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britotiagos&layout=compact)](https://github.com/britotiagos/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=britotiagos&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 Thank you for stopping by 👋
