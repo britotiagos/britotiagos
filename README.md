@@ -7,7 +7,7 @@ I'm really keen to learn smart contracts next.
 
 If you want to have a chat, follow me on one of the platforms below.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/britotiagos?label=Tiago%20Brito&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/britotiagos?label=Tiago%20Brito&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/britotiagos?label=Tiago%20Brito&style=social)
 
 
