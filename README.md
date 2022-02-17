@@ -1,31 +1,24 @@
-Hi, there I'm Tiago 
+<h1 align="center">Hi 👋, I'm Tiago Brito</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-I'm a passionate web developer that works at [Avenue.design](https://avenue.design/), helping our clients to make dreams become reality.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=britotiagos&label=Profile%20views&color=0e75b6&style=flat" alt="britotiagos" /> </p>
 
-I mostly work with the front-end on a daily basis, using the top technologies that are out there, but always have fun trying new things out.
-I'm really keen to learn smart contracts next.
+<p align="left"> <a href="https://twitter.com/britotiagos" target="blank"><img src="https://img.shields.io/twitter/follow/britotiagos?logo=twitter&style=for-the-badge" alt="britotiagos" /></a> </p>
 
-If you want to have a chat, follow me on one of the platforms below.
+- 🔭 I’m currently working on **Private projects**
 
-![Twitter Follow](https://img.shields.io/twitter/follow/britotiagos?label=Tiago%20Brito&style=social)
-![GitHub followers](https://img.shields.io/github/followers/britotiagos?label=Tiago%20Brito&style=social)
+- 🌱 I’m currently learning **Smart contracts**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/britotiagos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="britotiagos" height="30" width="40" /></a>
+<a href="https://twitter.com/britotiagos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="britotiagos" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10427589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10427589" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=britotiagos&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britotiagos&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=britotiagos&show_icons=true&locale=en&layout=compact" alt="britotiagos" /></p>
 
-
-![Tiago's Uses](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tiago's Uses](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Tiago's Uses](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Tiago's Uses](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Tiago's Uses](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-
-
-Thank you for stopping by 👋
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=britotiagos&show_icons=true&locale=en" alt="britotiagos" /></p>
