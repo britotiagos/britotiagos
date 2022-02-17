@@ -6,6 +6,10 @@ I mostly work with the front-end on a daily basis, using the top technologies th
 I'm really keen to learn smart contracts next.
 
 If you want to have a chat, follow me on one of the platforms below.
+<a href="https://twitter.com/britotiagos">
+![Twitter Follow](https://img.shields.io/twitter/follow/britotiagos?label=Tiago%20Brito&style=social)
+  </a>
+
 
 
 [![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=britotiagos&count_private=true&show_icons=true)](https://github.com/britotiagos/github-readme-stats)
