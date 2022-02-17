@@ -21,4 +21,4 @@ If you want to have a chat, follow me on one of the platforms below.
 Thank you for stopping by 👋
 
 
-[![forthebadge](https://forthebadge.com/images/badges/designed-in-etch-a-sketch.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/tiago.svg)](https://forthebadge.com)
