@@ -12,8 +12,7 @@ If you want to have a chat, follow me on one of the platforms below.
 
 
 
-![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=britotiagos&count_private=true&show_icons=true)
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=britotiagos&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britotiagos&layout=compact)
 
 
@@ -29,3 +28,4 @@ Thank you for stopping by 👋
 
 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
