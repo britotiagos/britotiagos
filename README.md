@@ -12,16 +12,14 @@ If you want to have a chat, follow me on one of the platforms below.
 
 
 
-[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=britotiagos&count_private=true&show_icons=true)](https://github.com/britotiagos/github-readme-stats)
+![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=britotiagos&count_private=true&show_icons=true)](https://github.com/britotiagos/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britotiagos&layout=compact)](https://github.com/britotiagos/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britotiagos&layout=compact)](https://github.com/britotiagos/github-readme-stats)
 
-[![Tiago's Uses](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-[![Tiago's Uses](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-[![Tiago's Uses](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-[![Tiago's Uses](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Tiago's Uses](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Tiago's Uses](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Tiago's Uses](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Tiago's Uses](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 
