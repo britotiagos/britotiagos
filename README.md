@@ -7,14 +7,15 @@ I'm really keen to learn smart contracts next.
 
 If you want to have a chat, follow me on one of the platforms below.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/britotiagos?label=Tiago%20Brito&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/britotiagos?label=Tiago%20Brito&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/britotiagos?label=Tiago%20Brito&style=social)
 
 
 
-![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=britotiagos&count_private=true&show_icons=true)](https://github.com/britotiagos/github-readme-stats)
+![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=britotiagos&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britotiagos&layout=compact)](https://github.com/britotiagos/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britotiagos&layout=compact)
+
 
 ![Tiago's Uses](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Tiago's Uses](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
