@@ -17,6 +17,7 @@ If you want to have a chat, follow me on one of the platforms below.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britotiagos&layout=compact)
 
 
+![Tiago's Uses](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tiago's Uses](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Tiago's Uses](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Tiago's Uses](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
