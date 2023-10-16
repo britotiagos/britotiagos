@@ -11,9 +11,9 @@
   </a>
 </p>
 
-🚀 With 5 years of experience in frontend development, I'm your go-to person for crafting amazing web experiences. My toolkit includes JavaScript, Next.js, Node.js, GraphQL, CSS, HTML5, WordPress, Prisma, and Styled Components. Building cool stuff is my jam!
+🚀 With 5 years of experience in front-end development, I'm your go-to person for crafting amazing web experiences. My toolkit includes JavaScript, Next.js, Node.js, GraphQL, CSS, HTML5, WordPress, Prisma, and Styled Components. Building cool stuff is my jam!
 
-🌐 Check out my latest project: [Tinder Clone for Developers](#) - Match with fellow developers using your GitHub account, just like the Tinder app. Stay tuned for more exciting projects in the pipeline!
+🌐 Check out my latest project: [Tinder Clone for Developers](https://github.com/britotiagos/tinderDeveloper) - Match with fellow developers using your GitHub account, just like the Tinder app. Stay tuned for more exciting projects in the pipeline!
 
 🏆 I've been part of projects that have clinched the prestigious Melbourne Design Awards. While it's a team effort, it's a testament to our collective commitment to excellence.
 
