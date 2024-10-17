@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Tiago Brito! 👋</h1>
-<h3 align="center">Web Developer | Next.js | Python Enthusiast</h3>
+<h3 align="center">Senior Web Developer | React | Node | Python Enthusiast</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=britotiagos&label=Profile%20views&color=0e75b6&style=flat" alt="britotiagos" />
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-🚀 With 5 years of experience in front-end development, I'm your go-to person for crafting amazing web experiences. My toolkit includes JavaScript, Next.js, Node.js, GraphQL, CSS, HTML5, WordPress, Prisma, and Styled Components. Building cool stuff is my jam!
+🚀 With 6 years of experience in front-end development, I'm your go-to person for crafting amazing web experiences. My toolkit includes JavaScript, Next.js, Node.js, GraphQL, CSS, HTML5, WordPress, Prisma, and Styled Components. Building cool stuff is my jam!
 
 🌐 Check out my latest project: [Tinder Clone for Developers](https://github.com/britotiagos/tinderDeveloper) - Match with fellow developers using your GitHub account, just like the Tinder app. Stay tuned for more exciting projects in the pipeline!
 
